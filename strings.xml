@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SR CodeX</string>
+    <string-array name="country">
+        <item>India</item>
+        <item>USA</item>
+        <item>China</item>
+        <item>Nepal</item>
+        <item>Other</item>
+    </string-array>
+</resources>
